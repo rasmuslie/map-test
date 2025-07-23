@@ -1,211 +1,103 @@
 {
   "cities": [
     {
-      "name": "Berlin",
-      "displayName": "Berlin",
-      "fullName": "Stadt Berlin",
+      "name": "Stadt Emmerich",
+      "displayName": "Emmerich",
+      "fullName": "Stadt Emmerich",
       "type": "Stadt",
-      "lng": 13.404954,
-      "lat": 52.520008,
-      "population": 3677472
+      "lng": 6.1641112,
+      "lat": 51.8554073,
+      "population": 32000
     },
     {
-      "name": "München",
-      "displayName": "München",
-      "fullName": "Stadt München",
+      "name": "Stadt Coburg",
+      "displayName": "Coburg",
+      "fullName": "Stadt Coburg",
       "type": "Stadt",
-      "lng": 11.576124,
-      "lat": 48.137154,
-      "population": 1488202
+      "lng": 10.8931158,
+      "lat": 50.2604195,
+      "population": 42000
     },
     {
-      "name": "Hamburg",
-      "displayName": "Hamburg",
-      "fullName": "Stadt Hamburg",
+      "name": "Stadt Plochingen",
+      "displayName": "Plochingen",
+      "fullName": "Stadt Plochingen",
       "type": "Stadt",
-      "lng": 9.993682,
-      "lat": 53.551086,
-      "population": 1945532
+      "lng": 9.3795241,
+      "lat": 48.7215622,
+      "population": 15000
     },
     {
-      "name": "Köln",
-      "displayName": "Köln",
-      "fullName": "Stadt Köln",
+      "name": "Stadt Detmold",
+      "displayName": "Detmold",
+      "fullName": "Stadt Detmold",
       "type": "Stadt",
-      "lng": 6.953101,
-      "lat": 50.935173,
-      "population": 1073096
+      "lng": 8.7939407,
+      "lat": 51.9286092,
+      "population": 75000
     },
     {
-      "name": "Frankfurt",
-      "displayName": "Frankfurt",
-      "fullName": "Stadt Frankfurt",
+      "name": "Stadt Troisdorf",
+      "displayName": "Troisdorf",
+      "fullName": "Stadt Troisdorf",
       "type": "Stadt",
-      "lng": 8.682127,
-      "lat": 50.110924,
-      "population": 753056
+      "lng": 7.0636565,
+      "lat": 50.8181341,
+      "population": 76000
     },
     {
-      "name": "Stuttgart",
-      "displayName": "Stuttgart",
-      "fullName": "Stadt Stuttgart",
-      "type": "Stadt",
-      "lng": 9.182932,
-      "lat": 48.775846,
-      "population": 626275
+      "name": "Gemeinde Engelskirchen",
+      "displayName": "Engelskirchen",
+      "fullName": "Gemeinde Engelskirchen",
+      "type": "Gemeinde",
+      "lng": 8.7963488,
+      "lat": 52.2194779,
+      "population": 20000
     },
     {
-      "name": "Düsseldorf",
-      "displayName": "Düsseldorf",
-      "fullName": "Stadt Düsseldorf",
-      "type": "Stadt",
-      "lng": 6.773456,
-      "lat": 51.227741,
-      "population": 619477
+      "name": "Gemeinde Nörvenich",
+      "displayName": "Nörvenich",
+      "fullName": "Gemeinde Nörvenich",
+      "type": "Gemeinde",
+      "lng": 6.5371519,
+      "lat": 50.801893,
+      "population": 11000
     },
     {
-      "name": "Leipzig",
-      "displayName": "Leipzig",
-      "fullName": "Stadt Leipzig",
-      "type": "Stadt",
-      "lng": 12.373075,
-      "lat": 51.339695,
-      "population": 597493
-    },
-    {
-      "name": "Dortmund",
-      "displayName": "Dortmund",
-      "fullName": "Stadt Dortmund",
-      "type": "Stadt",
-      "lng": 7.468554,
-      "lat": 51.513587,
-      "population": 588250
-    },
-    {
-      "name": "Essen",
-      "displayName": "Essen",
-      "fullName": "Stadt Essen",
-      "type": "Stadt",
-      "lng": 7.013761,
-      "lat": 51.455643,
-      "population": 582760
-    },
-    {
-      "name": "Bremen",
-      "displayName": "Bremen",
-      "fullName": "Stadt Bremen",
-      "type": "Stadt",
-      "lng": 8.801694,
-      "lat": 53.079296,
-      "population": 567559
-    },
-    {
-      "name": "Dresden",
-      "displayName": "Dresden",
-      "fullName": "Stadt Dresden",
-      "type": "Stadt",
-      "lng": 13.737262,
-      "lat": 51.050407,
-      "population": 563311
-    },
-    {
-      "name": "Hannover",
-      "displayName": "Hannover",
-      "fullName": "Stadt Hannover",
-      "type": "Stadt",
-      "lng": 9.732010,
-      "lat": 52.375892,
-      "population": 538068
-    },
-    {
-      "name": "Nürnberg",
-      "displayName": "Nürnberg",
-      "fullName": "Stadt Nürnberg",
-      "type": "Stadt",
-      "lng": 11.077298,
-      "lat": 49.449034,
-      "population": 518365
-    },
-    {
-      "name": "Duisburg",
-      "displayName": "Duisburg",
-      "fullName": "Stadt Duisburg",
-      "type": "Stadt",
-      "lng": 6.762329,
-      "lat": 51.434408,
-      "population": 498590
-    },
-    {
-      "name": "Bochum",
-      "displayName": "Bochum",
-      "fullName": "Stadt Bochum",
-      "type": "Stadt",
-      "lng": 7.216236,
-      "lat": 51.481846,
-      "population": 364628
-    },
-    {
-      "name": "Wuppertal",
-      "displayName": "Wuppertal",
-      "fullName": "Stadt Wuppertal",
-      "type": "Stadt",
-      "lng": 7.183333,
-      "lat": 51.256667,
-      "population": 354572
-    },
-    {
-      "name": "Bielefeld",
-      "displayName": "Bielefeld",
-      "fullName": "Stadt Bielefeld",
-      "type": "Stadt",
-      "lng": 8.532471,
-      "lat": 52.030228,
-      "population": 334002
-    },
-    {
-      "name": "Bonn",
+      "name": "Stadt Bonn",
       "displayName": "Bonn",
       "fullName": "Stadt Bonn",
       "type": "Stadt",
-      "lng": 7.098206,
-      "lat": 50.733992,
-      "population": 327258
+      "lng": 7.034899,
+      "lat": 50.7036567,
+      "population": 330
     },
     {
-      "name": "Münster",
-      "displayName": "Münster",
-      "fullName": "Stadt Münster",
-      "type": "Stadt",
-      "lng": 7.625763,
-      "lat": 51.962944,
-      "population": 317713
-    },
-    {
-      "name": "Kreis Minden-Lübbecke",
-      "displayName": "Minden-Lübbecke",
-      "fullName": "Kreis Minden-Lübbecke",
-      "type": "Kreis",
-      "lng": 8.9,
-      "lat": 52.3,
-      "population": 311142
-    },
-    {
-      "name": "Bad Oeynhausen",
-      "displayName": "Bad Oeynhausen",
-      "fullName": "Stadt Bad Oeynhausen",
-      "type": "Stadt",
-      "lng": 8.7551497,
-      "lat": 52.2194707,
-      "population": 50305
-    },
-    {
-      "name": "Detmold",
-      "displayName": "Detmold",
-      "fullName": "Gemeinde Detmold",
+      "name": "Gemeinde Schwalmtal",
+      "displayName": "Schwalmtal",
+      "fullName": "Gemeinde Schwalmtal",
       "type": "Gemeinde",
-      "lng": 8.8794,
-      "lat": 51.9365,
-      "population": 74335
+      "lng": 6.1879917,
+      "lat": 51.2221427,
+      "population": 19000
+    },
+    {
+      "name": "Stadt Bergisch Gladbach",
+      "displayName": "Bergisch Gladbach",
+      "fullName": "Stadt Bergisch Gladbach",
+      "type": "Stadt",
+      "lng": 7.075797,
+      "lat": 50.9735402,
+      "population": 113000
+    },
+    {
+      "name": "Rhein-Sieg-Kreis",
+      "displayName": "Rhein-Sieg",
+      "fullName": "Rhein-Sieg-Kreis",
+      "type": "Kreis",
+      "lng": 6.9386165,
+      "lat": 50.7527993,
+      "population": 605000
     }
   ]
-} 
+}
