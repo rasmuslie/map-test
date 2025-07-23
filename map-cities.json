@@ -10,6 +10,87 @@
       "population": 32000
     },
     {
+      "name": "Stadt Weingarten",
+      "displayName": "Weingarten",
+      "fullName": "Stadt Weingarten",
+      "type": "Stadt",
+      "lng": 9.5982836,
+      "lat": 47.8049016,
+      "population": 25000
+    },
+    {
+      "name": "Stadt Hamminkeln",
+      "displayName": "Hamminkeln",
+      "fullName": "Stadt Hamminkeln",
+      "type": "Stadt",
+      "lng": 6.5450676,
+      "lat": 51.7537091,
+      "population": 27000
+    },
+    {
+      "name": "Kreis Lippe",
+      "displayName": "Lippe",
+      "fullName": "Kreis Lippe",
+      "type": "Kreis",
+      "lng": 7.7275792,
+      "lat": 51.9860703,
+      "population": 350000
+    },
+    {
+      "name": "Stadt Vlotho",
+      "displayName": "Vlotho",
+      "fullName": "Stadt Vlotho",
+      "type": "Stadt",
+      "lng": 8.7456129,
+      "lat": 52.1492756,
+      "population": 19000
+    },
+    {
+      "name": "Stadt Hockenheim",
+      "displayName": "Hockenheim",
+      "fullName": "Stadt Hockenheim",
+      "type": "Stadt",
+      "lng": 8.4474006,
+      "lat": 49.3314512,
+      "population": 22000
+    },
+    {
+      "name": "Stadt Kalkar",
+      "displayName": "Kalkar",
+      "fullName": "Stadt Kalkar",
+      "type": "Stadt",
+      "lng": 6.241041,
+      "lat": 51.7576067,
+      "population": 14000
+    },
+    {
+      "name": "Stadt Geesthacht",
+      "displayName": "Geesthacht",
+      "fullName": "Stadt Geesthacht",
+      "type": "Stadt",
+      "lng": 10.3062957,
+      "lat": 53.4296168,
+      "population": 32000
+    },
+    {
+      "name": "Stadt Grevenbroich",
+      "displayName": "Grevenbroich",
+      "fullName": "Stadt Grevenbroich",
+      "type": "Stadt",
+      "lng": 6.5346832,
+      "lat": 51.0861207,
+      "population": 65000
+    },
+    {
+      "name": "Stadt Rheinbach",
+      "displayName": "Rheinbach",
+      "fullName": "Stadt Rheinbach",
+      "type": "Stadt",
+      "lng": 6.8690694,
+      "lat": 50.6146977,
+      "population": 27000
+    },
+    {
       "name": "Stadt Coburg",
       "displayName": "Coburg",
       "fullName": "Stadt Coburg",
@@ -17,6 +98,33 @@
       "lng": 10.8931158,
       "lat": 50.2604195,
       "population": 42000
+    },
+    {
+      "name": "Stadt Dormagen",
+      "displayName": "Dormagen",
+      "fullName": "Stadt Dormagen",
+      "type": "Stadt",
+      "lng": 6.707392,
+      "lat": 51.1042344,
+      "population": 65000
+    },
+    {
+      "name": "Burggemeinde Brüggen",
+      "displayName": "Brüggen",
+      "fullName": "Burggemeinde Brüggen",
+      "type": "Gemeinde",
+      "lng": 8.7551497,
+      "lat": 52.2194707,
+      "population": 16000
+    },
+    {
+      "name": "Stadt Kleve",
+      "displayName": "Kleve",
+      "fullName": "Stadt Kleve",
+      "type": "Stadt",
+      "lng": 6.0584663,
+      "lat": 51.7987072,
+      "population": 53000
     },
     {
       "name": "Stadt Plochingen",
@@ -46,6 +154,42 @@
       "population": 76000
     },
     {
+      "name": "Stadt Nettetal",
+      "displayName": "Nettetal",
+      "fullName": "Stadt Nettetal",
+      "type": "Stadt",
+      "lng": 6.1577941,
+      "lat": 51.309427,
+      "population": 43000
+    },
+    {
+      "name": "Stadt Herford",
+      "displayName": "Herford",
+      "fullName": "Stadt Herford",
+      "type": "Stadt",
+      "lng": 8.5734363,
+      "lat": 52.1139689,
+      "population": 67000
+    },
+    {
+      "name": "Stadt Bremerhaven",
+      "displayName": "Bremerhaven",
+      "fullName": "Stadt Bremerhaven",
+      "type": "Stadt",
+      "lng": 8.4933418,
+      "lat": 53.5430816,
+      "population": 115000
+    },
+    {
+      "name": "Stadt Siegburg",
+      "displayName": "Siegburg",
+      "fullName": "Stadt Siegburg",
+      "type": "Stadt",
+      "lng": 7.2011539,
+      "lat": 50.8039651,
+      "population": 42000
+    },
+    {
       "name": "Gemeinde Engelskirchen",
       "displayName": "Engelskirchen",
       "fullName": "Gemeinde Engelskirchen",
@@ -62,6 +206,15 @@
       "lng": 6.5371519,
       "lat": 50.801893,
       "population": 11000
+    },
+    {
+      "name": "Stadt Offenburg",
+      "displayName": "Offenburg",
+      "fullName": "Stadt Offenburg",
+      "type": "Stadt",
+      "lng": 7.780254,
+      "lat": 48.4748685,
+      "population": 62000
     },
     {
       "name": "Stadt Bonn",
@@ -82,6 +235,15 @@
       "population": 19000
     },
     {
+      "name": "Gemeinde Niederkrüchten",
+      "displayName": "Niederkrüchten",
+      "fullName": "Gemeinde Niederkrüchten",
+      "type": "Gemeinde",
+      "lng": 6.07707,
+      "lat": 51.2035207,
+      "population": 15000
+    },
+    {
       "name": "Stadt Bergisch Gladbach",
       "displayName": "Bergisch Gladbach",
       "fullName": "Stadt Bergisch Gladbach",
@@ -91,6 +253,24 @@
       "population": 113000
     },
     {
+      "name": "Stadt Moers",
+      "displayName": "Moers",
+      "fullName": "Stadt Moers",
+      "type": "Stadt",
+      "lng": 6.5363134,
+      "lat": 51.4573864,
+      "population": 105000
+    },
+    {
+      "name": "Stadt Soest",
+      "displayName": "Soest",
+      "fullName": "Stadt Soest",
+      "type": "Stadt",
+      "lng": 7.9973391,
+      "lat": 51.574586,
+      "population": 48000
+    },
+    {
       "name": "Rhein-Sieg-Kreis",
       "displayName": "Rhein-Sieg",
       "fullName": "Rhein-Sieg-Kreis",
@@ -98,6 +278,60 @@
       "lng": 6.9386165,
       "lat": 50.7527993,
       "population": 605000
+    },
+    {
+      "name": "Kreis Soest",
+      "displayName": "Soest",
+      "fullName": "Kreis Soest",
+      "type": "Kreis",
+      "lng": 7.9973391,
+      "lat": 51.574586,
+      "population": 300000
+    },
+    {
+      "name": "Stadt Bremen",
+      "displayName": "Bremen",
+      "fullName": "Stadt Bremen",
+      "type": "Stadt",
+      "lng": 8.5714785,
+      "lat": 53.1201237,
+      "population": 569000
+    },
+    {
+      "name": "Stadt Freiburg",
+      "displayName": "Freiburg",
+      "fullName": "Stadt Freiburg",
+      "type": "Stadt",
+      "lng": 7.4845936,
+      "lat": 47.987119,
+      "population": 236000
+    },
+    {
+      "name": "LK Euskirchen",
+      "displayName": "Euskirchen",
+      "fullName": "LK Euskirchen",
+      "type": "Kreis",
+      "lng": 6.7401919,
+      "lat": 50.631855,
+      "population": 202000
+    },
+    {
+      "name": "Stadt Goslar",
+      "displayName": "Goslar",
+      "fullName": "Stadt Goslar",
+      "type": "Stadt",
+      "lng": 10.3187607,
+      "lat": 51.9251002,
+      "population": 50000
+    },
+    {
+      "name": "LK Schaumburg",
+      "displayName": "Schaumburg",
+      "fullName": "LK Schaumburg",
+      "type": "Kreis",
+      "lng": 9.1783577,
+      "lat": 52.1995183,
+      "population": 157000
     }
   ]
 }
